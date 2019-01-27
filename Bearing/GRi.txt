@@ -1,0 +1,6 @@
+\\\GROUND RINGS///
+
+ROLLER_NO.   MRP.
+GRi001           700
+GRi002          1200
+GRi003          1300

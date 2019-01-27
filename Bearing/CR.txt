@@ -1,0 +1,8 @@
+\\\CYLINDRICAL ROLLER///
+Cylindrical Rollers are cylindrical shaped bearings which are used as rolling elements. As the rollers have a greater (linear) contact area with the outer ring due to cylinder structure and distribute loads across a wider surface. Cylindrical rollers have high radial load capacity which makes it suitable for high speed machines. To manufacture cylindrical rollers of different diameters and length pressed steel & machined brass cages are dominantly used. Raw material for cylindrical roller manufacturing process depends upon the application and area where it will be used.
+
+
+ROLLER_NO.      MRP.
+CR001            700
+CR002           1200
+CR003           1500

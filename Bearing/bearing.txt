@@ -1,0 +1,6 @@
+<<<Bearings>>>
+1.Tapper Bearing
+2.Cylindrical Bearing 
+3.Needle Roller Bearing 
+4.Ball Bearing 
+5.King Pin Bearing

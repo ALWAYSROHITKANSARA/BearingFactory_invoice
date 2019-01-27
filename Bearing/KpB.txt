@@ -1,0 +1,8 @@
+\\\KING PIN BEARING///
+King pin or roller thrust bearings are incredibly used in automobile industry. King pin bearings support the movement of high speed running front wheels with manipulation of steering process.
+
+
+BEARING_NO.      MRP.
+KpB001          1000
+KpB002          1400
+KpB003          1600

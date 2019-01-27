@@ -1,0 +1,8 @@
+\\\NEEDLE ROLLER///
+
+Needle roller bearings are similar to cylindrical rollers in structure but the diameter of needle rollers is small relative to its length. The flat ends of needle rollers are designed to maintain the line contact between the needle rollers and the raceways. Due to the low cross section area of needle rollers, it holds a high load carrying capacity. Needle rollers are used in many applications of limited radial space. 
+
+ROLLER_NO.       MRP.
+NR001           1700
+NR002           1800
+NR003           1900

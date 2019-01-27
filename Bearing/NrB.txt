@@ -1,0 +1,7 @@
+\\\NEEDLE ROLLER BEARING///
+Needle bearings are used as an element to manufacture needle roller bearings. The inner and outer rings of needle bearings can be loaded separately as its simple installation technique.
+
+BEARING_NO.---MRP.
+NR001------800
+NR002------1400
+NR003------1800

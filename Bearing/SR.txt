@@ -1,0 +1,8 @@
+\\\SPHERICAL ROLLER///
+Spherical rollers allow rotation with less friction and angular misalignment. Spherical rollers have a mixed structure of sphere and cylinder which support a rotating shaft in the bore. Spherical rollers are designed to handle heavy radial loads and axial loads in both directions. Spherical roller performance depends upon several factors such as geometry of the roller, heat treatment, roller tolerance, roller profile, raceways & cages and surface finishing of the rollers. Pressed steel and machined brass material are commonly used in manufacturing of spherical rollers.
+
+
+ROLLER_NO.       MRP.
+SR001            700
+SR002            800
+SR003            900

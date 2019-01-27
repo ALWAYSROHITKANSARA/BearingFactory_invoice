@@ -1,0 +1,9 @@
+\\\BALL BEARINGS///
+Ball bearings are a rolling element bearing which provide the separation between bearing races by using balls. Ball bearings effectively decrease the rotational friction and loads.
+
+
+BEARING_NO.     MRP.
+BaB001           800
+BaB002          1400
+BaB003          1800
+

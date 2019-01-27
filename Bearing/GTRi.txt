@@ -1,0 +1,7 @@
+\\\GROUD RINGS (TAPPER)///
+
+RING_NO.        MRP.
+GTRi001          600
+GTRi002          800
+GTRi003         1200
+  

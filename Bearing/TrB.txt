@@ -1,0 +1,8 @@
+\\\TAPERED ROLLER BEARING///
+Tapered roller bearing have tapered inner and outer ring raceways well as tapered rollers. They are designed to accommodate combined loads,
+i.e. simultaneously acting radial and axial loads.
+
+BEARING_NO.     MRP.
+TrB001          2500
+TrB002          2400
+TrB003          2300

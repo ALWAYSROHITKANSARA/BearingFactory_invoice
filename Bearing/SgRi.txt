@@ -1,0 +1,6 @@
+\\\SEMI-GROUND RINGS///
+
+RING_NO.   MRP.
+SgRi001         1200
+SgRi002         1300
+SgRi003         1400
